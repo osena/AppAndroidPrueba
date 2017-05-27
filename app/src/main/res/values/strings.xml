@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppAndroid</string>
+    <string name="Nombre">Otoniel Sena</string>
+    <string name="Activity1">Activity</string>
+    <string name="ActivityPrueba">Activity Prueba</string>
+    <string name="large_appname">Large appname</string>
+    <string name="next">Next</string>
+</resources>
